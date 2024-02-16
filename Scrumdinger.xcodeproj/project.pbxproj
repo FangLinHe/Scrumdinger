@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		382452892B7FB7F900F53A69 /* TranscriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382452882B7FB7F900F53A69 /* TranscriptionView.swift */; };
 		386C3B272B6D7D41008A1883 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386C3B262B6D7D41008A1883 /* ScrumdingerApp.swift */; };
 		386C3B292B6D7D41008A1883 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386C3B282B6D7D41008A1883 /* MeetingView.swift */; };
 		386C3B2B2B6D7D42008A1883 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 386C3B2A2B6D7D42008A1883 /* Assets.xcassets */; };
@@ -58,6 +59,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		382452882B7FB7F900F53A69 /* TranscriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranscriptionView.swift; sourceTree = "<group>"; };
 		386C3B232B6D7D41008A1883 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		386C3B262B6D7D41008A1883 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		386C3B282B6D7D41008A1883 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -219,6 +221,7 @@
 				386C3B612B70E39E008A1883 /* ThemeView.swift */,
 				386C3B822B723344008A1883 /* SpeakerArc.swift */,
 				386C3B862B723F20008A1883 /* HistoryView.swift */,
+				382452882B7FB7F900F53A69 /* TranscriptionView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -375,6 +378,7 @@
 				386C3B7F2B722FDE008A1883 /* MeetingTimerView.swift in Sources */,
 				386C3B542B6D8A91008A1883 /* DailyScrum.swift in Sources */,
 				386C3B792B716059008A1883 /* ScrumStore.swift in Sources */,
+				382452892B7FB7F900F53A69 /* TranscriptionView.swift in Sources */,
 				386C3B5E2B6EC046008A1883 /* DetailView.swift in Sources */,
 				386C3B7B2B719420008A1883 /* ErrorWrapper.swift in Sources */,
 				386C3B662B711B49008A1883 /* MeetingHeaderView.swift in Sources */,

@@ -25,6 +25,7 @@ struct MeetingView: View {
                                   secondsRemaining: scrumTimer.secondsRemaining,
                                   theme: scrum.theme)
                 MeetingTimerView(speakers: scrumTimer.speakers, isRecording: isRecording, theme: scrum.theme)
+                TranscriptionView(speechRecognizer: speechRecognizer)
                 MeetingFooterView(speakers: scrumTimer.speakers,
                                   skipAction: scrumTimer.skipSpeaker)
             }
