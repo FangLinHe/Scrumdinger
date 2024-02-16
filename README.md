@@ -8,4 +8,4 @@ After finishing the tutorial, I am able to manage scrums in different teams, eac
 
 ## Exercises
 
-[ ] Add a function to delete scrums
+[x] [2024.02.06] Add a function to delete scrums
